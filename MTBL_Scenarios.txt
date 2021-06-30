@@ -1,1 +1,7 @@
 Use case scenarios for MTBL_AOS_WEB
+
+Verify and validate application of Master Classic credit card using valid details
+Verify and validate application of Master Gold credit card using valid details
+Verify and validate application of Master Titanium credit card using valid details
+Verify and validate application of Master World credit card using valid details
+Verify and validate application of Union Pay Platinum credit card using valid details
