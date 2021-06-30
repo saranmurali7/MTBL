@@ -5,3 +5,9 @@ Verify and validate application of Master Gold credit card using valid details
 Verify and validate application of Master Titanium credit card using valid details
 Verify and validate application of Master World credit card using valid details
 Verify and validate application of Union Pay Platinum credit card using valid details
+
+Verify and validate application of Visa Classic credit card using valid details
+Verify and validate application of Visa Gold credit card using valid details
+Verify and validate application of Visa Platinum credit card using valid details
+Verify and validate application of Visa Signature credit card using valid details
+Verify and validate application of Angona Visa Platinum credit card using valid details
