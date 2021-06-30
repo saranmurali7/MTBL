@@ -12,6 +12,19 @@ Verify and validate application of Visa Platinum credit card using valid details
 Verify and validate application of Visa Signature credit card using valid details
 Verify and validate application of Angona Visa Platinum credit card using valid details
 
+---------------------------------------------LOt 2 Scenarios----------------------------
+Verify and validate application of Angona Visa Signature credit card using valid details
+Verify and validate application of Regular saving account for Joint Customers using valid details
+Verify and validate application of MTB Senior account for Joint Customers using valid details
+Verify and validate application of MTB Inspire account for Joint Customers using valid details
+Verify and validate application of MTB Ruby account for Joint Customers using valid details
+Verify and validate application of MTB Extreme account for Joint Customers using valid details
+Verify and validate application of MTB Current account for Joint Customers using valid details
+Verify and validate application of MTB Graduate account for Joint Customers using valid details
+Verify and validate application of Regular saving account for Single Customer using valid details
+Verify and validate application of MTB Senior account for Single Customer using valid details
+
+
 -----------------------Final Set of Scenarios-----------------------------------------
 
 Verify and validate application of MTB Inspire account for Single Customer using valid details
@@ -19,4 +32,5 @@ Verify and validate application of MTB Ruby account for Single Customer using va
 Verify and validate application of MTB Extreme account for Single Customer using valid details
 Verify and validate application of MTB Current account for Single Customer using valid details
 Verify and validate application of MTB Graduate account for Single Customer using valid details
+
 
